@@ -17,13 +17,13 @@ Realtime: WebSockets (Socket.io)
 Backend Setup
 cd backend
 npm install
-# create .env with MONGODB_URI, JWT_SECRET, MAPS_API_KEY, etc.
+create .env with MONGODB_URI, JWT_SECRET, MAPS_API_KEY, etc.
 npm run dev   # for local development
 
 Frontend Setup
 cd frontend
 npm install
-# create .env with VITE_BASE_URL pointing to backend
+ create .env with VITE_BASE_URL pointing to backend
 npm run dev   # run locally
 
 🎮 How to Use
